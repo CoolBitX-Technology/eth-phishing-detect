@@ -1,0 +1,16 @@
+on:
+  schedule:
+    - cron: "0 2 * * *" # 10 AM UTC+8
+
+jobs:
+  sync-upstream:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Sync upstream
+        run: |
+          gh repo sync CoolBitX-Technology/eth-phishing-detect --source MetaMask/eth-phishing-detect -b main --force
+        env:
+          GH_TOKEN: ${{ secrets.COOLWALLET_TEAM_GH_RELEASE }}

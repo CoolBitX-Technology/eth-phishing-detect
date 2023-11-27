@@ -1,6 +1,9 @@
 on:
   schedule:
     - cron: "0 2 * * *" # 10 AM UTC+8
+  push:
+    branches:
+      - test/sync-upstream-action
 
 jobs:
   sync-upstream:

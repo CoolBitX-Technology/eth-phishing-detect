@@ -511,6 +511,9 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "earndrop.world",
+    "tornadoeth.cash",
+    "airdrop-arkham.com",
     "hub-apyether.net",
     "claim-liquideth.com",
     "hub-ocean.com",
@@ -1736,7 +1739,6 @@
     "register-a16z.com",
     "celestgroup.tech",
     "glaze-glimmer-empress.glitch.me",
-    "celestia.cool",
     "layerzero-airdroop.online",
     "boredapayachtclub.com",
     "ordinalsy00ts.com",
@@ -76056,6 +76058,26 @@
     "lessfeesandgas.events",
     "newparadigm.mantastoken.com",
     "mantanetworktoken.xyz",
-    "airdrop.mantachain.network"
+    "airdrop.mantachain.network",
+    "register-saga.xyz",
+    "claim.onbeam.network",
+    "dymensiondrop.top",
+    "paragen-launchpad.io",
+    "reg-neotokyocodes.com",
+    "reg-overworldgames.com",
+    "bento-gamegpt.me",
+    "reg-dokicoin.com",
+    "reg-brc.app",
+    "register-zkfair.io",
+    "mangofarm.fi",
+    "arbitrum-5.xyz",
+    "zk-reward.net",
+    "zk-reward.app",
+    "zk-reward.org",
+    "mantlee.xyz",
+    "airdrop-namta.net",
+    "ido-port3.com",
+    "signup-soquest.com",
+    "signup-bounce.finance"
   ]
 }

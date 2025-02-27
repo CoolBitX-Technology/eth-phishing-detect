@@ -148,8 +148,6 @@ export const customTlds = [
   "xxuz.com",
   "temporary.link",
   "yikj.work",
-  "rsk.co",
-  "consensys.net",
   "talentlms.com",
   "techcombank.com.vn",
   "weeblysite.com",
@@ -238,4 +236,8 @@ export const customTlds = [
   "zohosites.com",
   "webador.com",
   "groovehq.com",
+  "ns01.info",
+  "kinsta.cloud",
+  "app.link",
+  "25u.com",
 ];
